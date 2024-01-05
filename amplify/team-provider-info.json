@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "eactamplifygraphqlb191717a": {}
+      },
+      "api": {
+        "eactamplifygraphql": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
